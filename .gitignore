@@ -1,0 +1,12 @@
+# one-word entry: ignore local run artefacts and editor litter
+__pycache__/
+*.pyc
+*.pyo
+entry.txt
+/output/
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/
+ronigrv-local-notes.txt
